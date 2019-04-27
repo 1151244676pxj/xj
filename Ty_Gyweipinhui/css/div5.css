@@ -1,0 +1,12 @@
+#div5{
+	background-color:#f9e5fc ;
+	margin-top: -3px;
+	background: url(img/jap_files/15514241183527.jpg);
+	background-size: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;	
+}
+#div5>img{
+	width: 20%;	
+}
